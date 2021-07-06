@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://autoinfra.github.io/home/blog</id>
-    <title>My Site Blog</title>
+    <title>Auto Infra Blog</title>
     <updated>2019-05-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://autoinfra.github.io/home/blog"/>
-    <subtitle>My Site Blog</subtitle>
+    <subtitle>Auto Infra Blog</subtitle>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
