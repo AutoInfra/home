@@ -2,17 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://autoinfra.github.io/home/blog</id>
     <title>Auto Infra Blog</title>
-    <updated>2019-05-30T00:00:00.000Z</updated>
+    <updated>2019-05-29T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://autoinfra.github.io/home/blog"/>
     <subtitle>Auto Infra Blog</subtitle>
-    <entry>
-        <title type="html"><![CDATA[Welcome]]></title>
-        <id>welcome</id>
-        <link href="https://autoinfra.github.io/home/blog/welcome"/>
-        <updated>2019-05-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></summary>
-    </entry>
+    <icon>https://autoinfra.github.io/home/img/AutoInfra.png</icon>
     <entry>
         <title type="html"><![CDATA[Hello]]></title>
         <id>hello-world</id>
