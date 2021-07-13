@@ -4,29 +4,29 @@
         <title>Auto Infra Blog</title>
         <link>https://autoinfra.github.io/home/blog</link>
         <description>Auto Infra Blog</description>
-        <lastBuildDate>Thu, 30 May 2019 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jun 2019 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[Stream Test Results To PowerBI]]></title>
+            <link>https://autoinfra.github.io/home/blog/PowerBI</link>
+            <guid>PowerBI</guid>
+            <pubDate>Sat, 01 Jun 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Stream Test Results To PowerBI And Watch It Live From Mobile App]]></description>
+        </item>
+        <item>
             <title><![CDATA[Self Healing Selenium - Healenium]]></title>
-            <link>https://autoinfra.github.io/home/blog/welcome</link>
-            <guid>welcome</guid>
+            <link>https://autoinfra.github.io/home/blog/Healenium</link>
+            <guid>Healenium</guid>
             <pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Healenium - An OpenSource Self Healing Test Automation solution]]></description>
         </item>
         <item>
-            <title><![CDATA[Hello]]></title>
+            <title><![CDATA[How to Achieve Machine Learning]]></title>
             <link>https://autoinfra.github.io/home/blog/hello-world</link>
             <guid>hello-world</guid>
             <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Hola]]></title>
-            <link>https://autoinfra.github.io/home/blog/hola</link>
-            <guid>hola</guid>
-            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
+            <description><![CDATA[image]]></description>
         </item>
     </channel>
 </rss>

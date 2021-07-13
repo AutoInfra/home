@@ -1,0 +1,1 @@
+(self.webpackChunkauto_infra=self.webpackChunkauto_infra||[]).push([[558],{6807:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/home/blog/tags","slug":"reporting","name":"reporting","count":1,"permalink":"/home/blog/tags/reporting"}')}}]);

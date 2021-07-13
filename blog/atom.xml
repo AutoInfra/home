@@ -2,30 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://autoinfra.github.io/home/blog</id>
     <title>Auto Infra Blog</title>
-    <updated>2019-05-30T00:00:00.000Z</updated>
+    <updated>2019-06-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://autoinfra.github.io/home/blog"/>
     <subtitle>Auto Infra Blog</subtitle>
     <icon>https://autoinfra.github.io/home/img/AutoInfra.png</icon>
     <entry>
+        <title type="html"><![CDATA[Stream Test Results To PowerBI]]></title>
+        <id>PowerBI</id>
+        <link href="https://autoinfra.github.io/home/blog/PowerBI"/>
+        <updated>2019-06-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Stream Test Results To PowerBI And Watch It Live From Mobile App]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Self Healing Selenium - Healenium]]></title>
-        <id>welcome</id>
-        <link href="https://autoinfra.github.io/home/blog/welcome"/>
+        <id>Healenium</id>
+        <link href="https://autoinfra.github.io/home/blog/Healenium"/>
         <updated>2019-05-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Healenium - An OpenSource Self Healing Test Automation solution]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hello]]></title>
+        <title type="html"><![CDATA[How to Achieve Machine Learning]]></title>
         <id>hello-world</id>
         <link href="https://autoinfra.github.io/home/blog/hello-world"/>
         <updated>2019-05-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hola]]></title>
-        <id>hola</id>
-        <link href="https://autoinfra.github.io/home/blog/hola"/>
-        <updated>2019-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
+        <summary type="html"><![CDATA[image]]></summary>
     </entry>
 </feed>
