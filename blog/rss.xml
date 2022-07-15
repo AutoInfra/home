@@ -1,32 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>Auto Infra Blog</title>
+        <title>Bhargav Murari Blog</title>
         <link>https://autoinfra.github.io/home/blog</link>
-        <description>Auto Infra Blog</description>
-        <lastBuildDate>Sat, 01 Jun 2019 00:00:00 GMT</lastBuildDate>
+        <description>Bhargav Murari Blog</description>
+        <lastBuildDate>Thu, 01 Jan 1970 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Stream Test Results To PowerBI]]></title>
-            <link>https://autoinfra.github.io/home/blog/PowerBI</link>
-            <guid>PowerBI</guid>
-            <pubDate>Sat, 01 Jun 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Stream Test Results To PowerBI And Watch It Live From Mobile App]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Self Healing Selenium - Healenium]]></title>
-            <link>https://autoinfra.github.io/home/blog/Healenium</link>
-            <guid>Healenium</guid>
-            <pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Healenium - An OpenSource Self Healing Test Automation solution]]></description>
-        </item>
-        <item>
-            <title><![CDATA[How to Achieve Machine Learning]]></title>
-            <link>https://autoinfra.github.io/home/blog/hello-world</link>
-            <guid>hello-world</guid>
-            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[image]]></description>
+            <title><![CDATA[AboutMe]]></title>
+            <link>https://autoinfra.github.io/home/blog/AboutMe</link>
+            <guid>AboutMe</guid>
+            <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hi, I'm Bhargav Murari  image]]></description>
         </item>
     </channel>
 </rss>
